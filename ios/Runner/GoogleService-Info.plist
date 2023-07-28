@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>474571153170-9ercerk0plhugepmq2aoqm0kns3p4lqc.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.474571153170-9ercerk0plhugepmq2aoqm0kns3p4lqc</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBywmTVwcTs1XOp6dJdfCunuJVsAKjiRzU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>474571153170</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.firstApp</string>
+	<key>PROJECT_ID</key>
+	<string>aya-test-99b66</string>
+	<key>STORAGE_BUCKET</key>
+	<string>aya-test-99b66.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:474571153170:ios:5312c8a14281c7784a5dcb</string>
+</dict>
+</plist>
